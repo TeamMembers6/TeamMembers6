@@ -1,10 +1,7 @@
 # 💫 About Me:
 I’m currently working on Backend development<br>I’m currently learning Django,Next.js<br>I’m looking to collaborate on Frontend development as Intern<br>How to reach me yeswantthalluru@gmail.com<br>
 
-[![](https://visitcount.itsvg.in/api?id=Yaswanth&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=Yaswanth&label=Profile%20Views&color=0&icon=5&pretty=false" />
-</a>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/cool_boy_yash_143) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/thalluru-yaswanth) 
 
