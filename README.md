@@ -4,7 +4,7 @@ HI 👋 , I'm Yaswanth
 A passionate Developer from india 
 
 # 💫 About Me:
-🔭 I’m currently working on frontend development<br><br>🌱 I’m currently learning Django,Next.js<br><br>👯 I’m looking to collaborate on Frontend development as Intern<br><br>📫 How to reach me yeswantthalluru@gmail.com
+🔭 I’m currently working on frontend development<br><br>🌱 I’m currently developing projects on web development<br><br>👯 I’m looking to collaborate on Frontend development as Intern<br><br>📫 How to reach me yeswantthalluru@gmail.com
 
 
 ## 🌐 Socials:
